@@ -2,9 +2,10 @@
 body{
  background-image: url(DSC01833.JPG);
  background-size:cover; 
+ background-repeat: no-repeat
  
- margin-left: 25%;
- margin-top: 35%;
+ margin-left: 12.5%;
+ margin-top: 17.5%;
  font-size:25px;
  line-height: 2.25;
  
