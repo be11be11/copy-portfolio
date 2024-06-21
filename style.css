@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body{
+ background-image: url(DSC01833.JPG);
+ background-size:cover; 
+ 
+ margin-left: 25%;
+ margin-top: 35%;
+ font-size:25px;
+ line-height: 2.25;
+ 
+ display: flex;
+
+}
